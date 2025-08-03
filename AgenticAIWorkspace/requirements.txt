@@ -1,0 +1,13 @@
+langchain
+langgraph
+langchain-core
+langchain-community
+python-dotenv
+langchain-openai
+langchain-groq
+arxiv
+wikipedia
+langchain_huggingface
+sentence-transformers
+faiss-cpu
+hf_xet
